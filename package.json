@@ -1,0 +1,21 @@
+{
+  "name": "my_first_mcp",
+  "version": "1.0.0",
+  "description": "My first Model Context Protocol server implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/server": "^0.1.0"
+  }
+}
